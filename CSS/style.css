@@ -88,7 +88,7 @@ main {
 
 .portfolio.profile {
     background: var(--primary);
-    background-image: url("../CSS/Images/portfolio-profile.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+    background-image: url("../Assets/Images/portfolio-profile.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
     background-size: cover;
     background-position: center;
     background-blend-mode: soft-light;
@@ -193,7 +193,7 @@ main {
     font-style: normal;
     background-image: linear-gradient(270deg, var(--primary) 0%, var(--primary) 100%);
     background-repeat: no-repeat;
-    background-size: 100% 0.2em;
+    background-size: 50% 0.2em;
     background-position: bottom;
     transition: all 0.25s ease-in;
     margin: 0 0.2rem 0.1rem;
@@ -206,19 +206,19 @@ main {
 }
 
 .web-organization {
-    background-image: url("../CSS/Images/web-organization.jpg");
+    background-image: url("../Assets/Images/web-organization.jpg");
 }
 
 .word-counter {
-    background-image: url("../CSS/Images/word-counter.jpg");
+    background-image: url("../Assets/Images/word-counter.jpg");
 }
 
 .budget-system {
-    background-image: url("../CSS/Images/budget-system.jpg");
+    background-image: url("../Assets/Images/budget-system.jpg");
 }
 
 .password-manager {
-    background-image: url("../CSS/Images/password-manager.jpg");
+    background-image: url("../Assets/Images/password-manager.jpg");
 }
 
 @media screen and (max-width: 980px) {
