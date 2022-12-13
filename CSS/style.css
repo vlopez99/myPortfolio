@@ -170,6 +170,7 @@ main {
     background-size: 150%;
     transition: all 0.5s;
     font-size: 0.9rem;
+    display: block !important
 }
 
 .flex-item:first-child {
@@ -205,8 +206,8 @@ main {
     color: var(--secondary);
 }
 
-.web-organization {
-    background-image: url("../Assets/Images/web-organization.jpg");
+.the-lazy-dater {
+    background-image: url("../Assets/Images/screenshot-lazy-dater.jpg");
 }
 
 .word-counter {
